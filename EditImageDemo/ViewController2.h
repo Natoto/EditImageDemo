@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ViewController2.h
 //  EditImageDemo
 //
 //  Created by 星盛 on 15/4/8.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ViewController2 : UIViewController
 
 @end
-
